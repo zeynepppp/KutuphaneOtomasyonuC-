@@ -1,0 +1,16 @@
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ana.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Grafik.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ktp_Al.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ktp_Ekle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ktp_Guncelle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ktp_Iade.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ktp_Rapor.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ktp_Sil.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ogr_Ekle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ogr_Guncelle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ogr_Rapor.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Ogr_Sil.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

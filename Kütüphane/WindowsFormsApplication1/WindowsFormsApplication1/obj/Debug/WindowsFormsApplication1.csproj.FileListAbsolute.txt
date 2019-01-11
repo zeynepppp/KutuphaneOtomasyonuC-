@@ -1,0 +1,198 @@
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Ekle.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Ekle.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Guncelle.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Sil.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Guncelle.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Sil.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Al.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Rapor.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Rapor.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Iade.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ana.resources
+C:\Users\m1\Desktop\web form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Grafik.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ana.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Grafik.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Al.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Ekle.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Guncelle.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Iade.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Rapor.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Sil.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Ekle.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Guncelle.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Rapor.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Sil.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\m1\Desktop\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ana.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Grafik.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Al.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Ekle.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Guncelle.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Iade.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Rapor.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Sil.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Ekle.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Guncelle.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Rapor.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Sil.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oguz\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.exe.config
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.exe
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.pdb
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ana.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Grafik.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Al.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Ekle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Guncelle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Iade.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Rapor.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Sil.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Ekle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Guncelle.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Rapor.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Sil.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KutuphaneApp.exe
+D:\WinFolders\Documents\Visual Studio 2015\Projects\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KutuphaneApp.pdb
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.exe.config
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KutuphaneApp.exe
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KutuphaneApp.pdb
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.exe
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.pdb
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ana.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Grafik.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Al.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Ekle.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Guncelle.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Iade.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Rapor.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Sil.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Ekle.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Guncelle.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Rapor.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Sil.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Onur\Desktop\Kütüphane\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.exe.config
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.exe
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KutuphaneApp.pdb
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normidna.nlp
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ana.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Grafik.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Al.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Ekle.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Guncelle.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Iade.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Rapor.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ktp_Sil.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Ekle.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Guncelle.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Rapor.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ogr_Sil.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KutuphaneApp.exe
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KutuphaneApp.pdb
+C:\Users\Begüm\Desktop\Kütüphane\Kütüphane\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
